@@ -1,0 +1,21 @@
+{
+    "name": "orcal",
+    "displayName": "orcal",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vknow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vknow-color-theme.json"
+            }
+        ]
+    }
+}
